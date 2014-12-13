@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<operationList>
+  <operation>
+    <name>自动关机</name>
+    <value>1</value>
+    <iscommand>True</iscommand>
+    <command>shut down -s -t </command>
+    <parameter>0</parameter>
+  </operation>
+  <operation>
+    <name>自动重启</name>
+    <value>2</value>
+    <iscommand>True</iscommand>
+    <command>shut down -r -t </command>
+    <parameter>0</parameter>
+  </operation>
+  <operation>
+    <name>自动待机</name>
+    <value>3</value>
+    <iscommand>True</iscommand>
+    <command>shut down -s -t </command>
+    <parameter>0</parameter>
+  </operation>
+  <operation>
+    <name>自动休眠</name>
+    <value>4</value>
+    <iscommand>True</iscommand>
+    <command>shut down -s -t </command>
+    <parameter>0</parameter>
+  </operation>
+  <operation>
+    <name>注销用户</name>
+    <value>5</value>
+    <iscommand>True</iscommand>
+    <command>shut down -s -t </command>
+    <parameter>0</parameter>
+  </operation>
+  <operation>
+    <name>提醒闹铃</name>
+    <value>6</value>
+    <iscommand>False</iscommand>
+    <command>shut down -s -t </command>
+    <parameter>0</parameter>
+  </operation>
+</operationList>

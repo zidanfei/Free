@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<applicationlist>
+  <application>
+    <select>True</select>
+    <name>qq</name>
+    <address>C:\Program Files\Tencent\QQ\Bin\QQ.exe</address>
+    <processname>QQ</processname>
+  </application>
+  <application>
+    <select>True</select>
+    <name>开心网超级大亨实时分析.exe</name>
+    <address>C:\TDDOWNLOAD\Soft\chaojidaheng\开心网超级大亨实时分析\开心网超级大亨实时分析.exe</address>
+    <processname>开心网超级大亨实时分析</processname>
+  </application>
+</applicationlist>
